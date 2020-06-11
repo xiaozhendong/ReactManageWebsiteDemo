@@ -1,0 +1,16 @@
+.logoStyle {
+  display: block;
+  max-width: 180px;
+  overflow: hidden;
+  color: #fff !important;
+  font-weight: bold;
+  font-size: 28px;
+  white-space: nowrap;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  padding-left : 12px;
+}
+
+.logoStyle:active {
+  text-decoration: none;
+}
